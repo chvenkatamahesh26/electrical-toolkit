@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.set_page_config(page_title="Electrical Engineering Toolkit", page_icon="⚡")
-st.title("⚡ Electrical Engineering Toolkit")
+st.set_page_config(page_title="Electronics Engineering Toolkit", page_icon="⚡")
+st.title("⚡ Electronics Engineering Toolkit")
 
 tab1, tab2, tab3, tab4 = st.tabs(
     ["Logic Gates", "Number System Converter", "Ohm's Law", "Resistor Color Code"]
